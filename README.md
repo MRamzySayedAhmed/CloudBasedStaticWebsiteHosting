@@ -1,5 +1,5 @@
 # Cloud-Based Static Website Hosting
-It’s a Full Exercise on Deploying a Highly Available Static Website Using AWS Cloud Platform
+It’s a Full Exercise on Deploying a Highly Available Static Website Using AWS Cloud Platform.
 
 # The Used Technologies
 * HTML
